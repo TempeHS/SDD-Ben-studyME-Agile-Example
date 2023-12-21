@@ -6,8 +6,8 @@ Study me is a basic study guide for students with a simple UI. The content inclu
 ![](https://github.com/TempeHS/2024SDD-Ben-studyME/blob/main/studyME.png)
 
 ## Agile Visually
-![](https://github.com/TempeHS/2024SDD-Ben-studyME/blob/main/agile1.png)
-![](https://github.com/TempeHS/2024SDD-Ben-studyME/blob/main/agile2.png)
+![](https://github.com/TempeHS/2024SDD-Ben-studyME/blob/main/agile1.jpg)
+![](https://github.com/TempeHS/2024SDD-Ben-studyME/blob/main/agile2.jpg)
 
 ## Agile Artifacts
 * Sprint backlog list of achievables (annotate changes made during sprint) 
