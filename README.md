@@ -16,6 +16,7 @@ Study me is a basic study guide for students with a simple UI. The content inclu
 * Sprint Review (Focus on project management: What challenges did you have, What did you do well, What will you do differently next time) 
 
 ## Links to help you:
+* [Software Versioning](https://en.wikipedia.org/wiki/Software_versioning)
 * [LogoMaker](https://www.logomaker.com/)
 * [Bootstrap](https://getbootstrap.com/) a responsive class based library
 * [MD Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
