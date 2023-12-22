@@ -1,7 +1,7 @@
 # Agile Artifacts
 ## Sprint backlog list of achievables (annotate changes made during sprint, including data required) 
 1. Landing page with three buttons
-2. Logo and banner design
+2. ~~Logo and~~ banner design
 
 ## Increment (what must be achieved by the end of the sprint) 
 1. UI only of landing page for the app
