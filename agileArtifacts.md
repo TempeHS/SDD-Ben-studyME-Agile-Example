@@ -8,7 +8,7 @@
 
 ## Sprint Review (Focus on project management)
 ### What challenges did you have
-
+ - 
 ### What did you do well
 
 ### What will you do differently next time

@@ -1,6 +1,7 @@
 # Product Backlog
-1. Landing page with three buttons
-2. Logo and banner design
+1. ~~Landing page with three buttons~~
+2. ~~Logo and banner design~~
+3. Connect 3 landing page buttons to their respective pages
 3. Favicon design
 4. Database of study tips
 5. JS to construct front end JSON file
